@@ -1,5 +1,5 @@
 # express-jwt
-express+jwt 
+
 
 ### .env
 <pre>
@@ -177,3 +177,5 @@ app.listen(4000)
 console.log('START SERVER ON PORT 4000')
 
 </pre>
+
+<!-- https://www.youtube.com/watch?v=mbsmsi7l3r4&list=RDCMUCFbNIlppjAuEX4znoulh0Cw&start_radio=1&t=79s  -->
